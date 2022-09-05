@@ -339,13 +339,5 @@
 			"optimism"
 		],
     "unbox": "optimism"
-	},
-	"polygon-box": {
-		"description": "Polygon Truffle box",
-		"stars": 1,
-		"tags": [
-			"polygon"
-		],
-    "unbox": "polygon"
 	}
 }

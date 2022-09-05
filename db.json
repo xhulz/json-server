@@ -357,43 +357,5 @@
 			"scribble"
 		],
     "unbox": ""
-	},
-	"nuxt-box": {
-		"description": "Truffle, Nuxt and Vue boilerplate",
-		"stars": 32,
-		"tags": [
-			"community",
-			"ethereum",
-			"truffle",
-			"vuejs",
-			"nuxtjs",
-			"vue",
-			"nuxt",
-			"truffle-framework",
-			"solidity"
-		],
-    "unbox": "Paperchain/nuxt-box"
-	},
-	"peerai-api": {
-		"description": "Peerism's Peer.ai API built with Truffle, Node.js, Express.js, Solidity, and Ethereum TestRPC",
-		"stars": 14,
-		"tags": [
-			"community",
-			"node",
-			"express",
-			"express-middleware",
-			"jwt",
-			"passport",
-			"mongodb",
-			"mongoose",
-			"curl",
-			"truffle",
-			"solidity",
-			"ethereum",
-			"dapp",
-			"api",
-			"solc"
-		],
-    		"unbox": ""
 	}
 }

@@ -323,21 +323,5 @@
 			"layer-2"
 		],
     "unbox": "skalenetwork/truffle-skale-network-box"
-	},
-	"arbitrum-box": {
-		"description": "Arbitrum Truffle box",
-		"stars": 1,
-		"tags": [
-			"arbitrum"
-		],
-    "unbox": "arbitrum"
-	},
-	"optimism-box": {
-		"description": "Optimism Truffle box",
-		"stars": 1,
-		"tags": [
-			"optimism"
-		],
-    "unbox": "optimism"
 	}
 }

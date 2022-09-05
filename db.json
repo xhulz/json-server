@@ -284,44 +284,5 @@
 			"community"
 		],
     "unbox": "NovakDistributed/macroverse-truffle-box"
-	},
-	"metacoin-box": {
-		"description": "MetaCoin smart contracts example box",
-		"stars": 44,
-		"tags": [
-			"official"
-		],
-    "unbox": "metacoin"
-	},
-	"nightfall-box": {
-		"description": "A box to help get you started building dapps with Nightfall!",
-		"stars": 4,
-		"tags": [
-			"official",
-			"nightfall"
-		],
-    "unbox": "nightfall"
-	},
-	"filecoin-box": {
-		"description": "Filecoin flavored Ganache Truffle box",
-		"stars": 5,
-		"tags": [
-			"filecoin",
-			"ipfs",
-			"truffle",
-			"ganache",
-			"lotus"
-		],
-    "unbox": "filecoin"
-	},
-	"truffle-skale-network-box": {
-		"description": "SKALE Network Box",
-		"stars": 1,
-		"tags": [
-			"ethereum",
-			"skale",
-			"layer-2"
-		],
-    "unbox": "skalenetwork/truffle-skale-network-box"
 	}
 }

@@ -347,15 +347,5 @@
 			"polygon"
 		],
     "unbox": "polygon"
-	},
-	"scribble-exercise-1": {
-		"description": "Scribble",
-		"stars": 1,
-		"tags": [
-			"consensys",
-			"security",
-			"scribble"
-		],
-    "unbox": ""
 	}
 }
